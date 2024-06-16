@@ -1,6 +1,5 @@
 ## Hello 👀
 
-- 🔭 I’m currently working on **[Vipe Roleplay](https://discord.gg/fpAryzXDBS)**
 - 🌱 I’m currently learning **Lua**/**JS**/**TS**
 - 📫 You can contact me on discord: **[wionzu](https://discordapp.com/users/597426724208246807)**
 
